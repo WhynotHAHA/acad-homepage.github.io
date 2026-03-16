@@ -17,42 +17,309 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I am a third-year Ph.D. student at School of Computer Science and Technology, Shanghai Jiao Tong University, supervised by Prof. [Li Niu](https://www.ustcnewly.com/). Prior to this, I earned my Bachelor’s degree from School of Computer Science and Technology, University of Electronic Science and Technology of China in 2023.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes interactive video generation and embodied intelligence. I expect to graduate in Summer 2028 and am actively seeking internship opportunities (remote or onsite). Please feel free to contact me at whynothaha@sjtu.edu.cn.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉🎉 One paper accepted to WWW 2026, thanks to all co-authors!!
+- *2026.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2026, thanks to all co-authors!!
+- *2026.01*: &nbsp;🎉🎉 One first-author paper accepted to ICASSP 2026, thanks to all co-authors!!
+- *2025.03*: &nbsp;🎉🎉 One first-author paper accepted to ICME 2025, thanks to all co-authors!!
+- *2025.02*: &nbsp;🎉🎉 One first-author paper accepted to CVPR 2025, thanks to all co-authors!!
+- *2024.02*: &nbsp;🎉🎉 One first-author paper accepted to Pattern Recognition 2024, thanks to all co-authors!!
+- *2022.08*: &nbsp;🎉🎉 One first-author paper accepted to Information Sciences 2022, thanks to all co-authors!!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2025</div>
+      <img src='images/overview_rapo.png' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <p>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_The_Devil_is_in_the_Prompts_Retrieval-Augmented_Prompt_Optimization_for_CVPR_2025_paper.pdf">
+      The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation
+      </a>
+    </p>
+    <p>
+      <b>Bingjie Gao</b>, Xinyu Gao, Xiaoxue Wu, Yujie Zhou, Yu Qiao, Li Niu, Xinyuan Chen, Yaohui Wang
+    </p>
+    <p>
+      Conference on Computer Vision and Pattern Recognition (CVPR) 2025
+    </p>
+    <p>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_The_Devil_is_in_the_Prompts_Retrieval-Augmented_Prompt_Optimization_for_CVPR_2025_paper.pdf"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+         Paper
+      </a>
+      <a href="https://github.com/Vchitect/RAPO"
+         style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+         Code
+      </a>
+    </p>
+
+  </div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/overview_rapo_plus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling](https://arxiv.org/abs/2510.20206)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Bingjie Gao**, Qianli Ma, Xiaoxue Wu, Shuai Yang, Guanzhou Lan, Haonan Zhao, Jiaxuan Chen, Qingyang Liu, Yu Qiao, Xinyuan Chen, Yaohui Wang, Li Niu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<p>Arxiv 2025</p>
+<p>
+  <a href="https://arxiv.org/abs/2510.20206"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+  <a href="https://github.com/Vchitect/RAPO"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+      Code
+  </a>
+</p>
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ICASSP 2026</div>
+<img src='images/overview_animatescene.png' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text'>
+
+<a href="https://arxiv.org/abs/2508.05982">AnimateScene: Camera-controllable Animation in Any Scene</a>
+
+<p>
+<b>Qingyang Liu*</b>, <b>Bingjie Gao*</b>, Weiheng Huang, Jun Zhang, Zhongqian Sun, 
+Yang Wei, Fengrui Liu, Zelin Peng, Qianli Ma, Shuai Yang, Zhaohe Liao, Haonan Zhao, Li Niu
+</p>
+
+<p><sup>*</sup>Equal contribution</p>
+
+<p>International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2508.05982"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+  <a href="https://whynothaha.github.io/AnimateScene/AnimateScene.html"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+      Project
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ICME 2025</div>
+<img src='images/framework_icme.png' alt="sym" width="100%">
+</div>
+</div>
+<div class='paper-box-text'>
+
+<a href="https://arxiv.org/abs/2504.12029">Object Placement for Anything</a>
+
+<p>
+<b>Bingjie Gao</b>, Bo Zhang, Li Niu
+</p>
+
+<p>International Conference on Multimedia and Expo (ICME) 2025</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2504.12029"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-text'>
+
+<a href="https://arxiv.org/abs/2508.11484">Cinetrans: Learning to generate videos with cinematic transitions via masked diffusion models</a>
+
+<p>
+Xiaoxue Wu, <b>Bingjie Gao</b>, Yu Qiao, Yaohui Wang, Xinyuan Chen
+</p>
+
+<p>International Conference on Learning Representations (ICLR) 2026</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2508.11484"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+  <a href="https://github.com/Vchitect/CineTrans"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+      Code
+  </a>
+  <a href="https://uknowsth.github.io/CineTrans/"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+      Project
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-text'>
+
+<a href="https://openreview.net/forum?id=Fkwvsf7U8N&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DACM.org%2FTheWebConf%2F2026%2FIndustry%2FAuthors%23your-submissions)">Bridging Visual Dynamics and Narrative Reasoning: Multimodal Large Language Models for Short Drama Quality Assessment</a>
+
+<p>
+Qingyang Liu, Jiangtong Li, Zelin Peng, Shaobo Wang, Zhaohe Liao, Shuochen Chang, <b>Bingjie Gao</b>, Haonan Zhao, Mu Liu, Jidong Jiang, Li Niu
+</p>
+
+<p>The ACM Web Conference (WWW) 2026 Industry Track</p>
+
+<p>
+  <a href="https://openreview.net/forum?id=Fkwvsf7U8N&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DACM.org%2FTheWebConf%2F2026%2FIndustry%2FAuthors%23your-submissions"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-text'>
+
+<a href="https://arxiv.org/abs/2510.19600">Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1</a>
+
+<p>
+Qianli Ma, Siyu Wang, Yilin Chen, Yinhao Tang, Yixiang Yang, Chang Guo, <b>Bingjie Gao</b>, Zhening Xing, Yanan Sun, Zhipeng Zhang
+</p>
+
+<p>Arxiv 2025</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2510.19600"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+  <a href="https://github.com/AutoLab-SAI-SJTU/AutoPage"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+      Code
+  </a>
+  <a href="https://mqleet.github.io/AutoPage_ProjectPage/"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none;">
+      Project
+  </a>
+</p>
+
+</div>
+</div>
+
+
+
+<div class='paper-box'>
+<div class='paper-box-text'>
+
+<a href="https://www.sciencedirect.com/science/article/pii/S0031320323007379">HIE-EDT: Hierarchical interval estimation-based evidential decision tree</a>
+
+<p>
+<b>Bingjie Gao</b>, Qianli Zhou, Yong Deng
+</p>
+
+<p>Pattern Recognition (PR) 2024</p>
+
+<p>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0031320323007379"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+</p>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-text'>
+
+<a href="https://www.sciencedirect.com/science/article/pii/S0020025522007150">BIM-AFA: Belief information measure-based attribute fusion approach in improving the quality of uncertain data</a>
+
+<p>
+<b>Bingjie Gao</b>, Qianli Zhou, Yong Deng
+</p>
+
+<p>Information Sciences (INS) 2022</p>
+
+<p>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0020025522007150"
+      style="padding:4px 10px; border:1px solid #aaa; border-radius:4px; text-decoration:none; margin-right:6px;">
+      Paper
+  </a>
+</p>
+
+</div>
+</div>
+
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Graduate of Sichuan Province, 2023
+- Outstanding Graduate of University of Electronic Science and Technology of China, 2023
+- Second Prize (National) in the Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), 2021
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 12px;">
+    <img src="images/sjtu_logo.png" alt="SJTU logo" width="80">
+  </div>
 
-# 💬 Invited Talks
+  <div>
+    <div><strong>2023.09 - 2028.06</strong>, Ph.D. Student.</div>
+    <div>School of Computer Science and Engineering.</div>
+    <div>Shanghai Jiao Tong University, Shanghai.</div>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 12px;">
+    <img src="images/uestc_logo.png" alt="UESTC logo" width="80">
+  </div>
+
+  <div>
+    <div><strong>2019.09 - 2023.06</strong>, Undergraduate.</div>
+    <div>School of Computer Science and Engineering.</div>
+    <div>University of Electronic Science and Technology of China, Chengdu, Sichuan.</div>
+  </div>
+</div>
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.03 - 2025.09*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
