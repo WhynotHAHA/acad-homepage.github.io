@@ -23,6 +23,9 @@ My research interest includes interactive video generation and embodied intellig
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper accepted to ICML 2026, thanks to all co-authors!!
+- *2026.04*: &nbsp;🎉🎉 One paper accepted to ACL Findings 2026, thanks to all co-authors!!
+- *2026.03*: &nbsp;🎉🎉 One paper accepted to ICME 2026, thanks to all co-authors!!
 - *2026.01*: &nbsp;🎉🎉 One paper accepted to WWW 2026, thanks to all co-authors!!
 - *2026.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2026, thanks to all co-authors!!
 - *2026.01*: &nbsp;🎉🎉 One first-author paper accepted to ICASSP 2026, thanks to all co-authors!!
